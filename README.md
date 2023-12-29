@@ -4,38 +4,9 @@ Atualmente estou estudando sobre desenvolvimento de software e deixarei meus pro
 public class MinhaClasse {
 $nome = "João Vitor Alves dos Reis";
 $area = "Desenvolvimento Web";
-$linguagens = ["C", "Java", "Javascript", "Php"];
+$tecnologias = ["C",  "Git", "Java", "Javascript", "React", "Php", "PostgreSQL"];
 }
 ```
-
-## Ferramentas
-
-<div>
-
-<img
-height="30"
-src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"
-alt="Logo Javascript"/>&nbsp;&nbsp;
-<img
-height="30"
-src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
-alt="Logo React"/>&nbsp;&nbsp;
-<img
-height="30"
-src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
-alt="Logo Php"/>&nbsp;&nbsp;
-<img
-height="30"
-src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"
-alt="Logo PostgreSQL"/>&nbsp;&nbsp;
-<img
-height="30"
-src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
-alt="Logo Git"/>&nbsp;&nbsp;
-</div>
-
-
-
 ## Status
 <table>
   <tr>  

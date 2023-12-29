@@ -1,7 +1,7 @@
 # Olá👋
 Atualmente estou estudando sobre desenvolvimento de software e deixarei meus projetos publicos aqui.
 ```php
-public class MinhaClasse {
+class MinhaClasse {
 $nome = "João Vitor Alves dos Reis";
 $area = "Desenvolvimento Web";
 $tecnologias = ["C",  "Git", "Java", "Javascript", "React", "Php", "PostgreSQL"];

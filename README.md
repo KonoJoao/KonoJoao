@@ -1,13 +1,13 @@
-# Olá👋
-Atualmente estou estudando sobre desenvolvimento de software e deixarei meus projetos publicos aqui.
+# Hello👋
+I am currently studying software development and will make my projects public here.
 ```php
-class MinhaClasse {
-$nome = "João Vitor Alves dos Reis";
-$area = "Desenvolvimento Web";
-$tecnologias = ["C",  "Git", "Java", "Javascript", "React", "Php", "PostgreSQL"];
+class MyClass {
+$name = "João Vitor Alves dos Reis";
+$area = "Web Development";
+$technologies = ["C",  "Git", "Java", "Javascript", "React", "Php", "PostgreSQL"];
 }
 ```
-## Status
+## Stats
 <table>
   <tr>  
     <td>

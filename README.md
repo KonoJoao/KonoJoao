@@ -2,9 +2,9 @@
 I am currently studying software development and will make my projects public here.
 ```php
 class MyClass {
-$name = "João Vitor Alves dos Reis";
-$area = "Web Development";
-$technologies = ["C",  "Git", "Java", "Javascript", "React", "Php", "PostgreSQL"];
+  $name = "João Vitor Alves dos Reis";
+  $area = "Web Development";
+  $technologies = ["C",  "Git", "Java", "Javascript", "React", "Php", "PostgreSQL"];
 }
 ```
 ## Stats

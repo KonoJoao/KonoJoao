@@ -3,8 +3,8 @@ I am currently studying software development and will make my projects public he
 ```Java
 public class MyClass {
   public String name = "João Vitor Alves dos Reis";
-  public String area = "Web Development";
-  public String[] technologies = {"C",  "Git", "Java", "Javascript", "Php", "PostgreSQL"};
+  public String area = "Development";
+  public String[] technologies = {"C", "C#", "Docker", "Git", "Java", "Javascript", "PHP", "PostgreSQL"};
 }
 ```
 ## Stats

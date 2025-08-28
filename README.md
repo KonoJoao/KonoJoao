@@ -1,10 +1,10 @@
 # Hello👋
 I am currently studying software development and will make my projects public here.
 ```Java
-public class MyClass {
-  public String name = "João Vitor Alves dos Reis";
-  public String area = "Development";
-  public String[] technologies = {"C", "C#", "Docker", "Git", "Java", "Javascript", "PHP", "PostgreSQL"};
+public class Developer {
+  private String name = "João Vitor Alves dos Reis";
+  private String area = "Backend development";
+  public String[] technologies = {"Java", "Javascript", "Docker", "AWS", "CI/CD"};
 }
 ```
 ## Stats

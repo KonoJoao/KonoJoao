@@ -2,7 +2,7 @@
 I am currently studying software development and will make my projects public here.
 ```Java
 public class Developer {
-  private String name = "João Vitor Alves dos Reis";
+  private String name = "João Vitor A. Reis";
   private String area = "Backend development";
   public String[] technologies = {"Java", "Javascript", "Docker", "AWS", "CI/CD"};
 }

@@ -4,7 +4,7 @@ I am currently studying software development and will make my projects public he
 public class Developer {
   private String name = "João Vitor A. Reis";
   private String area = "Backend development";
-  public String[] technologies = {"Java", "Typescript", "Docker", "AWS", "CI/CD"};
+  public String[] technologies = {"Java", "Typescript", "NestJs", "Docker", "AWS", "CI/CD"};
 }
 ```
 ## Stats
